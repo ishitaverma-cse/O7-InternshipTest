@@ -129,7 +129,7 @@ public:
         }
         else
         {
-            cout << "Member limit is reached!"
+            cout << "Member limit is reached!";
         }
     }
 
@@ -254,3 +254,4 @@ int main()
     }
     return 0;
 }
+
